@@ -1,5 +1,5 @@
 var config = {
-  geojson: "https://raw.githubusercontent.com/regislon/cfgeo_s2/main/ressources/data.json",
+  geojson: "https://raw.githubusercontent.com/EPFL-ENAC/ENACDataCatalogPOC/main/data/data.json",
   title: "ENAC data Library",
   layerName: "Data",
   hoverProperty: "species_sim",
